@@ -22,6 +22,8 @@
 * testing
 ***********************/ 
 
+
+Tested 20/07/2022
 if(!window.jQuery){
     var jqueryScript = document.createElement('script');
     jqueryScript.setAttribute('src','https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js'); 
