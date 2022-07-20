@@ -19,7 +19,7 @@
 
 /**********************
 * PRELOADS 
-* load jquery if it doesn't exist
+* load jquery testing is not required
 ***********************/ 
 
 if(!window.jQuery){
